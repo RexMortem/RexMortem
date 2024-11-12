@@ -2,6 +2,7 @@
 ## Hi, I'm Ed
 
 [📚 My University (and Computer Science) notes](https://rexmortem.github.io/eds-notes/)
+
 [🌐 My website (very in-progress!)](https://rexmortem.github.io/eds-world/)
 
 🖥️ While you're here, why not check out some cool projects:
