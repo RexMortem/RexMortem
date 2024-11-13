@@ -22,3 +22,9 @@
 **CodeForces:** UncleFester
 
 **Leetcode:** EdDenton
+
+### Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
