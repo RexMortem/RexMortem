@@ -23,6 +23,8 @@
 
 **Leetcode:** EdDenton
 
+**Advent of Code:** RexMortem (display name: Ed Denton)
+
 ### Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
