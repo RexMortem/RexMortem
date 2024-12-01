@@ -23,7 +23,7 @@
 
 **Leetcode:** EdDenton
 
-**Advent of Code:** RexMortem (display name: Ed Denton)
+**Advent of Code:** Ed Denton
 
 ### Stats
 
