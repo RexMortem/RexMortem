@@ -30,3 +30,6 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
+</br>
+![Streak](https://streak-stats.demolab.com?user=RexMortem&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=450&ring=FF79C6&background=191622&stroke=FF79C6&currStreakLabel=FF0090&fire=FC008E&currStreakNum=EBE1D9&sideNums=EBE1D9)
+</br>
