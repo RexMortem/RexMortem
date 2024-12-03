@@ -23,7 +23,7 @@
 
 **Leetcode:** EdDenton
 
-**Advent of Code:** Ed Denton
+**Advent of Code:** Ed Denton ([My Solutions](https://github.com/RexMortem/AdventOfCode))
 
 ### Stats
 
