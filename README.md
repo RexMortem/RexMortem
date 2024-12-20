@@ -5,6 +5,10 @@
 
 [🌐 My website (very in-progress!)](https://rexmortem.github.io/eds-world/)
 
+### 🔨 What I'm working on right now...
+
+[🐦 Simulation Labs (Boids and Agents, Procedural Generation w/ Noise, Poisson, & Techniques...)](https://uwcs.github.io/SimulationLabs/Boids)
+
 ### 🖥️ While you're here, why not check out some cool projects:
 
 - [Automata Simulators (Haskell)](https://github.com/RexMortem/CS141-Automata_Simulators)
