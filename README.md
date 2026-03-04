@@ -1,6 +1,8 @@
 
 ## Hi, I'm Ed
 
+(For anyone reading this, this is so outdated atm lmao)
+
 [📚 My University notes](https://github.com/RexMortem/CS-Degree)
 
 ### 🔨 What I'm working on right now...
