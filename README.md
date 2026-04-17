@@ -1,13 +1,12 @@
 
 ## Hi, I'm Ed
 
-(For anyone reading this, this is so outdated atm lmao)
-
-[📚 My University notes](https://github.com/RexMortem/CS-Degree)
+I'm currently a final year student at the University of Warwick, studying Computer Science. I like learning and doing side projects!
 
 ### 🔨 What I'm working on right now...
 
-[🐦 Simulation Labs (Boids and Agents, Procedural Generation w/ Noise, Poisson, & Techniques...)](https://uwcs.github.io/SimulationLabs/Boids)
+- [🐦 Simulation Labs (Boids and Agents, Procedural Generation w/ Noise, Poisson, & Techniques...)](https://uwcs.github.io/SimulationLabs/Boids)
+- [📚 Open Source CS Degree Guide (Notes, Exercises)](https://csnotes.containers.uwcs.co.uk/)
 
 ### 🖥️ While you're here, why not check out some cool projects:
 
