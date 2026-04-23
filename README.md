@@ -6,7 +6,7 @@ I'm currently a final year student at the University of Warwick, studying Comput
 ### 🔨 What I'm working on right now...
 
 - [🐦 Simulation Labs (Boids and Agents, Procedural Generation w/ Noise, Poisson, & Techniques...)](https://uwcs.github.io/SimulationLabs/Boids)
-- [📚 Open Source CS Degree Guide (Notes, Exercises)](https://csnotes.containers.uwcs.co.uk/)
+- [📚 Open Source CS Degree Guide (Notes, Exercises)](https://csnotes.uwcs.co.uk/)
 
 ### 🖥️ While you're here, why not check out some cool projects:
 
