@@ -10,14 +10,14 @@ I'm currently a final year student at the University of Warwick, studying Comput
 
 ### 🖥️ While you're here, why not check out some cool projects:
 
-- [Automata Simulators (Haskell)](https://github.com/RexMortem/CS141-Automata_Simulators)
-- [Chess in Python (Python, Pygame) & Basic AI](https://github.com/RexMortem/Python-Chess-NEA)
-- [Parser & Interpreter/Simulator for Logo (Haskell, Gloss)](https://github.com/RexMortem/CS141-Logo_Parser_Simulator)
-- [Command-Line Program For Generating a Convex-Hull (C++)](https://github.com/RexMortem/ConvexHullConsole)
+- [Automata Simulators (Haskell)](https://github.com/24edden/CS141-Automata_Simulators)
+- [Chess in Python (Python, Pygame) & Basic AI](https://github.com/24edden/Python-Chess-NEA)
+- [Parser & Interpreter/Simulator for Logo (Haskell, Gloss)](https://github.com/24edden/CS141-Logo_Parser_Simulator)
+- [Command-Line Program For Generating a Convex-Hull (C++)](https://github.com/24edden/ConvexHullConsole)
 
 ### ✏️ If you're interested in the learning side of things: 
 
-- C Course ([Part 1](https://github.com/RexMortem/C_Course-Introduction), [Part 2](https://github.com/RexMortem/C_Course-The_Cequel), [Part 3](https://github.com/RexMortem/C_Course-The_Finale))
+- C Course ([Part 1](https://github.com/24edden/C_Course-Introduction), [Part 2](https://github.com/24edden/C_Course-The_Cequel), [Part 3](https://github.com/24edden/C_Course-The_Finale))
 - 🚧 Procedural Generation Workshop
 
 ### 🔗 Where to find me:
@@ -26,13 +26,13 @@ I'm currently a final year student at the University of Warwick, studying Comput
 
 **Leetcode:** EdDenton
 
-**Advent of Code:** Ed Denton ([My Solutions](https://github.com/RexMortem/AdventOfCode))
+**Advent of Code:** Ed Denton ([My Solutions](https://github.com/24edden/AdventOfCode))
 
 ### Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=24edden&theme=tokyonight&show_icons=true)](https://github.com/24edden)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RexMortem&theme=tokyonight&show_icons=true)](https://github.com/RexMortem)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=24edden&theme=tokyonight&show_icons=true)](https://github.com/24edden)
 </br>
-[![Streak](https://streak-stats.demolab.com/?user=RexMortem)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=24edden)](https://git.io/streak-stats)
 </br>
